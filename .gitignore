@@ -1,0 +1,11 @@
+db.sqlite3
+venv
+backend/__pycache__
+orders/__pycache__
+products/__pycache__
+orders/migrations
+products/migrations
+
+
+
+
